@@ -1,4 +1,4 @@
-"""This program gives the solution for advent of code 2021 day 3.
+"""This program contains the solution for advent of code 2021 day 3.
 """
 
 __author__ = "Jonas Tesseraux"
