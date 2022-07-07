@@ -1,4 +1,5 @@
-"""This program gives the solution for advent of code 2021 day 8.
+"""This program contains the solution for advent of code 2021 day 8.
+Documentation is not finished yet.
 """
 
 from data_functions import read_data, get_numbers
